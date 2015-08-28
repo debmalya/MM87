@@ -1,0 +1,1 @@
+java -jar lib\tester.jar -exec "java -classpath bin PopulationMapping" -seed %1 -novis

@@ -1,0 +1,10 @@
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 0 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 1 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 2 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 3 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 4 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 5 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 6 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 7 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 8 -novis 
+java -jar lib/tester.jar -exec "java -classpath bin PopulationMapping" -seed 9 -novis 
